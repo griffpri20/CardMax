@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CardMax
 
 > Find the best credit card for every purchase — instantly.
@@ -234,6 +233,3 @@ Chase Freedom Flex and Discover it earn **5x/5%** on rotating quarterly categori
 | Location | expo-location |
 | Config | expo-constants + dotenv |
 | Build | EAS Build |
-=======
-# CardMax
->>>>>>> 2266be9d464de00a87484694b3685649f89bf5a8
